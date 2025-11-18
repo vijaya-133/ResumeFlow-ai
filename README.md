@@ -4,8 +4,6 @@
 
 This project is designed to be a scalable, cost-effective, and powerful tool for any job seeker looking to streamline and improve their application process.
 
-![ResumeFlow AI Architecture](https://i.imgur.com/your-architecture-diagram-image.png)
-*(**Action:** You should upload your architecture diagram to a service like Imgur and replace the link above)*
 
 ---
 
